@@ -1,6 +1,8 @@
 <div align="center">
   <img src="assets/logo.svg" style="margin-bottom: 20px;" alt="Postgresus Logo" width="250"/>
 
+  使用Claude Code基于原版增加了 i18n 和 企业微信推送功能
+
   <h3>PostgreSQL backup</h3>
   <p>Free, open source and self-hosted solution for automated PostgreSQL backups. With multiple storage options and notifications</p>
   
